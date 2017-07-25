@@ -1,0 +1,185 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.page1{
+	position: relative;
+	background: url(../img/1-bg.jpg) 0 0 no-repeat;
+	background-size:cover ;
+}
+.page1 p:first-child{
+	
+	position: absolute;
+	left: 50px;
+	top: 100px;
+}
+.page1 p:first-child img{
+	width: 270px;
+	height: 100px;
+}
+.page1 p:nth-child(2){
+	
+	position: absolute;
+	left: 50px;
+	top: 230px;
+}
+.page1 p:nth-child(2) img{
+	width: 270px;
+	height: 20px;
+}
+.jiantou{
+	position: absolute;
+	left: 165px;
+	bottom: -10px;
+	height: 60px;
+	width: 50px;
+}
+.page2{
+	background: url(../img/bj-2.png);
+	background-size:cover ;
+}
+.page2 .text{
+	width: 90%;
+	box-shadow: 10px 10px 100px 10px #888888;
+	position: absolute;
+	top: 100px;
+	left: 20px;
+}
+.page2 .text img{
+	margin: 0 auto;
+	width: 100%;
+}
+.page3{
+	background: url(../img/page3.jpg);
+	background-size:cover ;
+}
+.page4{
+	background: url(../img/bj-4.png);
+	background-size:cover ;
+}
+.page4 h2{
+	color: #fff;
+	margin: 70px 66px;
+}
+.page4 p{
+	position: absolute;
+	left: 50px;
+	bottom: 150px;
+}
+.page4 p img{
+	width: 80%;
+}
+.page5,.page6,.page7,.page8,.page10,.page13{
+	background: url(../img/9-bg.jpg);
+	background-size:cover ;
+}
+.page5 img:nth-child(2),.page6 img:nth-child(2),.page7 img:nth-child(2),.page8 img:nth-child(2){
+	width: 50%;
+	position: absolute;
+	left: 100px;
+	top: 0;
+}
+.page5 p,.page6 p,.page7 p,.page8 p{
+	color: #fff;
+	font-size: 15px;
+	margin: 65px 0;
+	padding: 20px;
+}
+.page9,.page11{
+	background: #000;
+	background-size:cover ;
+}
+.page9 img,.page11 img,.page12 img,.page13 img:nth-child(2){
+	width: 100%;
+}
+.page9 ul{
+	height: 563px;
+	list-style: none;
+}
+.page9 ul li{
+	width: 40%;
+	float: left;
+    
+}
+.page9 ul li:nth-child(2n+1){
+	margin-left:52px;
+}
+.page9 ul li img{
+	width: 80%;
+}
+.page10 span{
+	color: #fff;
+	font-size: 28px;
+	position: absolute;
+	left: 30px;
+	top: 50px;
+}
+.page10 p{
+	color: #fff;
+	font-size: 16px;
+	position: absolute;
+	left: 30px;
+	top: 120px;
+	padding-right: 30px;
+}
+.page10 .qyhz img{
+	width: 85%;
+	position: absolute;
+	left: 30px;
+	bottom: 230px;
+}
+.page11 ul{
+	height: 500px;
+	list-style: none;
+}
+.page11 ul li{
+	width: 48%;
+	float: left;
+	margin-bottom: 5px;
+    
+}
+.page11 ul li:nth-child(2n+1){
+	margin-left:15px;
+}
+.page11 ul li img{
+	width: 92%;
+}
+.page12{
+	background: url(../img/page11.jpg);
+	background-size:cover ;
+}
+.page12 .kb{
+	height: 132px;
+}
+.page12 img{
+	margin: -2px;
+}
+.page13 .lxwm{
+	height: 140px;
+}
+.page13 .lxwm img{
+	margin: 48px 72px;
+    height: 47px;
+    width: 225px;
+}
+.page13 p{
+	color: #fff;
+}
+.page13 p:nth-child(2){
+	font-size: 20px;
+	margin: 4px 45px;
+}
+.page13 p:nth-child(3){
+	font-size: 20px;
+	margin: 0 45px;
+}
+.page13 p:nth-child(4){
+	font-size: 16px;
+	margin: 28px 20px;
+}
+.page13 img{
+	margin: -8px 15px;
+}
+
+
+
